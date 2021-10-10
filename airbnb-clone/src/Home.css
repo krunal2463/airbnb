@@ -1,0 +1,17 @@
+.home__section {
+    display: flex;
+    padding: 75px;
+    
+}
+
+.home__titleOne {
+    margin-top: 80px;
+    margin-left: 80px;
+    margin-bottom: -60px;
+}
+
+.home__titleTwo {
+    margin-top: -50px;
+    margin-left: 80px;
+    margin-bottom: -60px;
+}

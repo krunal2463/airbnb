@@ -36,6 +36,8 @@
 
 .banner__info > h5 {
     margin-top: 10px;
+    font-family: serif;
+    font-weight: 100;
 }
 
 .banner__info > button:hover {

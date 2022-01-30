@@ -44,7 +44,7 @@ function Footer() {
                 
             </div>
             
-            <p>&copy; 2021 Airbnb clone | Privacy | Terms | Sitemap | Company Details</p>
+            <p>&copy; 2022 Airbnb clone | Privacy | Terms | Sitemap | Company Details</p>
         </div>
     )
 }
